@@ -19,6 +19,10 @@
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
+### Contact Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shirley-decesari-760950157/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 <!--
 **sdecesari/sdecesari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
